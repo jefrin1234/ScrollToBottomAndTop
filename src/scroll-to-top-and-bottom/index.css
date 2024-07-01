@@ -1,0 +1,21 @@
+button{
+  padding: 10px 15px;
+  background-color: rgb(42, 170, 159);
+  border: none;
+  border-radius: 5px;color: white;
+  font-size:13px ;
+  font-weight: 700;
+}
+body{
+  background-color: rgb(55, 143, 105);
+  color: white;
+}
+h1,h3,H2{
+  color: rgb(43, 23, 57);
+}
+ul{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+}
